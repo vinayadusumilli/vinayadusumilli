@@ -1,4 +1,19 @@
 
+<img src="https://vinayadusumilli.com/assets/banner.png" width="100%" alt="Vinay Adusumilli Banner"/>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vinayadusumilli&theme=onedark&margin-w=15&margin-h=15" />
+</p>
+
+<p align="center">
+  <a href="mailto:adusumillivinayas@gmail.com"><img src="https://img.shields.io/badge/Email-Me-informational?style=for-the-badge&logo=gmail&logoColor=white&color=red"/></a>
+  <a href="https://linkedin.com/in/vinayadusumilli"><img src="https://img.shields.io/badge/LinkedIn-Vinay-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://vinayadusumilli.com"><img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
+</p>
+
+---
+
+
 <h1 align="center">Hi there, I'm Vinay 👋</h1>
 
 <p align="center">
@@ -62,6 +77,19 @@ class Vinay:
 **Tech**: Python, spaCy, Django/Streamlit, PDF parsing, REST APIs
 
 ---
+
+
+---
+
+### 📜 Certifications
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Azure_AI_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure_AI_Engineer_Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLM_Prompt_Engineering-grey?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
+
 
 ### 📊 GitHub Stats
 
