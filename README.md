@@ -1,55 +1,91 @@
-# 👋 Hi, I’m Vinay Adusumilli
 
-🎓 MSc in Advanced Computer Science (University of Hertfordshire)  
-💼 2.5+ years of experience as a Software Engineer at Cognizant  
-📍 Based in London, UK | Open to software, cloud, data, and ML roles
+<h1 align="center">Hi there, I'm Vinay 👋</h1>
 
----
-
-### 👀 Interests
-- Software Development (Full Stack & Backend)
-- Machine Learning & AI Applications
-- Cloud Architecture & DevOps
-- Open Source Collaboration
-- Automation & Scalable Systems
+<p align="center">
+  🚀 MSc Computer Science | 💻 Software & Data Engineer | ☁️ Cloud Enthusiast | 🧠 AI Explorer  
+</p>
 
 ---
 
-### 🌱 Currently Learning
-- Advanced Algorithms & Data Structures  
-- Scalable Cloud Computing with AWS & Azure  
-- Prompt Engineering & LLM Integration
+### 🔧 About Me
+
+```python
+class Vinay:
+    def __init__(self):
+        self.name = "Vinay Adusumilli"
+        self.role = "Data & Software Engineer"
+        self.location = "London, UK"
+        self.interests = ["AI for Good", "Backend Systems", "Cloud Automation", "Open Source"]
+        self.learning = ["Advanced Algorithms", "LLMs", "AWS Cost Optimization"]
+```
+
+- 🎓 Pursuing MSc in Advanced Computer Science @ University of Hertfordshire  
+- 💼 Former Software Engineer @ Cognizant (2.5+ years experience)  
+- 🛠️ Worked on automation, RESTful APIs, DevOps pipelines, emotion AI, and more  
+- 📫 Reach me at: [adusumillivinayas@gmail.com](mailto:adusumillivinayas@gmail.com)
 
 ---
 
-### 💡 Projects
-- 🧠 [Multimodal Emotion Recognition AI](https://github.com/vinayadusumilli/Multimodal-Emotion-AI): Facial + speech-based classification using TensorFlow, MFCC, HOG, and VGG16  
-- ☁️ Cloud Cost Optimisation Tool *(in progress)*: AWS, Lambda, predictive ML for enterprise billing insights  
-- 📝 Intelligent Resume Scanner *(coming soon)*: NLP-powered web tool to score resumes against job descriptions  
+### 🧠 Tech Stack
+
+**Languages**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=postgresql&logoColor=white)
+
+**Frameworks & Tools**  
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+**Cloud & DevOps**  
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=githubactions)
 
 ---
 
-### 🤝 Let’s Collaborate
-I'm open to contributions and collaborations on:
-- AI for Good / Mental Wellness Applications  
-- Full Stack Projects (React, Django, FastAPI)
-- Data Pipelines, Visualisation, and DevOps Tools  
+### 📂 Featured Projects
+
+#### 🎯 [Multimodal Emotion Recognition AI](https://github.com/vinayadusumilli/Multimodal-Emotion-AI)
+> Classifies human emotions using facial and speech inputs with CNNs, MFCC, HOG, and VGG16.  
+**Tech**: TensorFlow, OpenCV, Keras, Python  
+⭐ `92% speech accuracy` | `85.7% facial accuracy`
+
+#### ☁️ Cloud Cost Optimization Tool *(In Progress)*
+> ML + AWS APIs to predict and minimize cloud expenses  
+**Tech**: AWS Cost Explorer, Lambda, Python, Pandas, ML
+
+#### 📄 Intelligent Resume Scanner *(Coming Soon)*
+> NLP-based tool to score resumes against job descriptions  
+**Tech**: Python, spaCy, Django/Streamlit, PDF parsing, REST APIs
 
 ---
 
-### 📫 Connect With Me
-- Email: [adusumillivinayas@gmail.com](mailto:adusumillivinayas@gmail.com)  
-- LinkedIn: [vinayadusumilli](https://www.linkedin.com/in/vinayadusumilli)  
-- Portfolio: [vinayadusumilli.com](http://vinayadusumilli.com)  
-- LeetCode: [VinayAdusumilli](https://leetcode.com/u/VinayAdusumilli/)  
-- GitHub: [vinayadusumilli](https://github.com/vinayadusumilli)
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vinayadusumilli&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinayadusumilli&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-### ⚡ Fun Fact
-I'm a big fan of outdoor adventures and love hiking in my free time. If I’m not coding, I’m probably exploring a trail somewhere 🌲⛰️
+### 🌱 Current Goals
 
-<!---
-vinayadusumilli/vinayadusumilli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Launch Intelligent Resume Scanner as a web app  
+- Publish my first technical blog on NLP or LLMs  
+- Contribute to 2 open-source AI tools in 2025  
+- Expand GitHub followers through community content
+
+---
+
+### 🤝 Let’s Connect
+
+📧 Email: [adusumillivinayas@gmail.com](mailto:adusumillivinayas@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/vinayadusumilli) | [Portfolio](http://www.vinayadusumilli.com) | [GitHub](https://github.com/vinayadusumilli)  
+
+---
+
+_“Code is like humor. When you have to explain it, it’s bad.” — Cory House_
