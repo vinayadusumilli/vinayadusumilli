@@ -1,5 +1,5 @@
 
-<img src="https://vinayadusumilli.com/assets/banner.png" width="100%" alt="Vinay Adusumilli Banner"/>
+```<img src="https://vinayadusumilli.com/assets/banner.png" width="100%" alt="Vinay Adusumilli Banner"/>```
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=vinayadusumilli&theme=onedark&margin-w=15&margin-h=15" />
