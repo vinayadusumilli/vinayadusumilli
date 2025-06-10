@@ -34,7 +34,7 @@ class Vinay:
 ```
 
 - 🎓 Pursuing MSc in Advanced Computer Science @ University of Hertfordshire  
-- 💼 Former Software Engineer @ Cognizant (2.5+ years experience)  
+- 💼 Former Software Engineer @ Cognizant (3.0+ years experience)  
 - 🛠️ Worked on automation, RESTful APIs, DevOps pipelines, emotion AI, and more  
 - 📫 Reach me at: [adusumillivinayas@gmail.com](mailto:adusumillivinayas@gmail.com)
 
